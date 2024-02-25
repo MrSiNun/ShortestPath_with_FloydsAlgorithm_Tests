@@ -1,1 +1,9 @@
-Requests==2.31.0
+numpy==1.26.4
+pipreqs==0.5.0
+pylint==3.0.3
+pypi==2.1
+pypl==40.10
+pytest==8.0.2
+requests==2.31.0
+setuptools==69.1.1
+
