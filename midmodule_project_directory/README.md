@@ -35,7 +35,7 @@ Requirements
 The project requires Python 3.x. Install the required dependencies using the following command:
 pip install -r requirements.txt
 
-### Contributors
+## Contributors 
 
 - Name: Sinan Bilir
 - GitHub Username: MrSiNun
